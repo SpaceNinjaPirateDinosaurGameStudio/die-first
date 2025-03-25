@@ -53,14 +53,34 @@
             "id": "b69a0dbe9572e03d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Referencias/Luto.md",
-                "mode": "source",
-                "source": false
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": 3102.2301389291542,
+                  "y": 765.970130268301,
+                  "zoom": 1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "Luto"
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
+            }
+          },
+          {
+            "id": "e0aeb2b804c417e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mapa mental.canvas",
+                "viewState": {
+                  "x": 3264.08499751121,
+                  "y": 1901.022431485317,
+                  "zoom": -0.5608820887144386
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
             }
           },
           {
@@ -92,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,8 +259,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b69a0dbe9572e03d",
+  "active": "e0aeb2b804c417e4",
   "lastOpenFiles": [
+    "Pasted image 20250325154750.png",
+    "IMG/size_960_16_9_redacao-uol-sp-nova2.webp",
+    "IMG/Pasted image 20250325153626.png",
+    "mapa mental.canvas",
+    "IMG/Pasted image 20250325154609.png",
+    "IMG/Pasted image 20250325154524.png",
+    "IMG/Pasted image 20250325154516.png",
+    "IMG/Pasted image 20250325154510.png",
+    "IMG/Pasted image 20250325154504.png",
+    "IMG/Pasted image 20250325154451.png",
+    "IMG/Pasted image 20250325153704.png",
+    "O enforcado.md",
+    "Referencias/Luto.md",
     "Referencias/Luto e o Tarot.md",
     "Mecanicas/Personalizacao Horror MBTI.md",
     "Roteiro.md",
@@ -254,20 +287,13 @@
     "Itens/Lampião.md",
     "Itens/Tochas.md",
     "Itens/Camera fotogáfica.md",
-    "mapa mental.canvas",
     "Die first.md",
     "Referencias/Tarot.md",
     "Referencias",
     "IMG/Pasted image 20250322210804.png",
-    "Referencias/Luto.md",
     "Itens",
     "Game Studio.md",
-    "IMG/Pasted image 20250303121214.png",
-    "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
     "Mecanicas/Mecânica geral.md",
-    "IMG/DALL·E 2025-03-03 16.46.38 - A 32-bit pixel art sprite of a mysterious investigator or explorer character, staying faithful to the original design. He wears a white long-sleeved s.webp",
-    "IMG/DALL·E 2025-03-03 11.36.39 - A 16-bit pixel art sprite sheet of a character with timeless clothing, including a plain shirt, pants, and boots. The sprite sheet includes different .webp",
-    "IMG/DALL·E 2025-02-21 13.15.54 - A 16-bit pixel art scene of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelated moss and .webp",
     "Mecanicas/Mecânicas de Die First.md",
     "Mecanicas",
     "IMG/Pas2BBA.tmp",
@@ -276,10 +302,6 @@
     "IMG/DAL1AB9.tmp",
     "IMG/DAL1AA8.tmp",
     "IMG/DALL·E 2025-03-03 11.57.09 - A 16-bit pixel art isometric version of a space completely overtaken by an alien, eldritch nightmare. The floor is now fragmented, floating in impossi.webp.import",
-    "IMG/DAL199C.tmp",
-    "IMG/Pasted image 20250303164215.png",
-    "IMG/DALL·E 2025-03-03 16.22.20 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed with old, cracked ceramic tiles. The tiles should be aged, with some broken edges.webp",
-    "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
-    "IMG/DALL·E 2025-03-03 16.15.38 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture intertwined with grotesque, fleshy roots. The ro.webp"
+    "IMG/DAL199C.tmp"
   ]
 }
