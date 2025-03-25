@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "897f94bd88d78bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b02f8bf1fa2040b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a903cf65e15d154b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roteiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roteiro"
+            }
+          },
+          {
+            "id": "88844e897fcc5f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itens/Camera fotogáfica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camera fotogáfica"
+            }
+          },
+          {
+            "id": "eeed2bbc81e76382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanicas/Mecânica de sanidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecânica de sanidade"
+            }
+          },
+          {
+            "id": "b69a0dbe9572e03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencias/Luto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luto"
+            }
+          },
+          {
+            "id": "c57ff2b9c8d0b70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itens/Tochas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tochas"
+            }
+          },
+          {
+            "id": "f23e37fed4a4f6de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itens/Camera fotogáfica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camera fotogáfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b766ab1281fc7828",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72dbad2d0953a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad7c20265655bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fd0dc9ab9b9fc1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "801a2945528843da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c13f359c990c38e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "413eee294656b66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd3b32c28ecb3257",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Die first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Die first"
+            }
+          },
+          {
+            "id": "e6c8a422ea724fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Die first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Die first"
+            }
+          },
+          {
+            "id": "c82d0b17300de798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5adb36f988895ba3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Die first.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Die first"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b69a0dbe9572e03d",
+  "lastOpenFiles": [
+    "Referencias/Luto e o Tarot.md",
+    "Mecanicas/Personalizacao Horror MBTI.md",
+    "Roteiro.md",
+    "Itens/Diário.md",
+    "Abominação.md",
+    "Mecanicas/Mecânica de sanidade.md",
+    "Mecanicas/Mecânica de recursos.md",
+    "Mecanicas/Mecânica de inimigos.md",
+    "Mecanicas/Mecânica das Salas.md",
+    "Mecanicas/Mecânica da Luz.md",
+    "Itens/Lampião.md",
+    "Itens/Tochas.md",
+    "Itens/Camera fotogáfica.md",
+    "mapa mental.canvas",
+    "Die first.md",
+    "Referencias/Tarot.md",
+    "Referencias",
+    "IMG/Pasted image 20250322210804.png",
+    "Referencias/Luto.md",
+    "Itens",
+    "Game Studio.md",
+    "IMG/Pasted image 20250303121214.png",
+    "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
+    "Mecanicas/Mecânica geral.md",
+    "IMG/DALL·E 2025-03-03 16.46.38 - A 32-bit pixel art sprite of a mysterious investigator or explorer character, staying faithful to the original design. He wears a white long-sleeved s.webp",
+    "IMG/DALL·E 2025-03-03 11.36.39 - A 16-bit pixel art sprite sheet of a character with timeless clothing, including a plain shirt, pants, and boots. The sprite sheet includes different .webp",
+    "IMG/DALL·E 2025-02-21 13.15.54 - A 16-bit pixel art scene of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelated moss and .webp",
+    "Mecanicas/Mecânicas de Die First.md",
+    "Mecanicas",
+    "IMG/Pas2BBA.tmp",
+    "IMG/DALL·E 2025-03-03 11.51.36 - A 16-bit pixel art isometric version of an office that is merging with an ancient, otherworldly temple. The wooden walls and flooring are now partiall.webp.import",
+    "IMG/DALL·E 2025-03-03 11.53.59 - A 16-bit pixel art isometric version of an office that has been utterly consumed by an ancient, otherworldly temple, leaving no trace of its original .webp.import",
+    "IMG/DAL1AB9.tmp",
+    "IMG/DAL1AA8.tmp",
+    "IMG/DALL·E 2025-03-03 11.57.09 - A 16-bit pixel art isometric version of a space completely overtaken by an alien, eldritch nightmare. The floor is now fragmented, floating in impossi.webp.import",
+    "IMG/DAL199C.tmp",
+    "IMG/Pasted image 20250303164215.png",
+    "IMG/DALL·E 2025-03-03 16.22.20 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed with old, cracked ceramic tiles. The tiles should be aged, with some broken edges.webp",
+    "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "IMG/DALL·E 2025-03-03 16.15.38 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture intertwined with grotesque, fleshy roots. The ro.webp"
+  ]
+}
