@@ -102,9 +102,9 @@
               "state": {
                 "file": "mapa mental.canvas",
                 "viewState": {
-                  "x": 3529.9607169107267,
-                  "y": 1338.253143782926,
-                  "zoom": -1.6666666666666663
+                  "x": 3375.1454641111145,
+                  "y": 2233.0484416099016,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -289,8 +289,9 @@
   },
   "active": "efd7a16c3b70dd0d",
   "lastOpenFiles": [
-    "IMG/Pasted image 20250325162709.png",
+    "Criaturas/Abominação.md",
     "mapa mental.canvas",
+    "IMG/Pasted image 20250325162709.png",
     "IMG/Pasted image 20250325165026.png",
     "IMG/Pasted image 20250325165000.png",
     "IMG/Pasted image 20250325164931.png",
@@ -299,7 +300,6 @@
     "IMG/Pasted image 20250325162857.png",
     "IMG/Pasted image 20250325162749.png",
     "Criaturas/Espectros.md",
-    "Criaturas/Abominação.md",
     "Criaturas/Gouhls.md",
     "Cenas/O enforcado.md",
     "Criaturas",
